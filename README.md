@@ -10,4 +10,4 @@ The Unity project containes one scene, in which there are two keyboards for sett
 You can run the Unity project on windows, Ios, or Android devices. 
 We installed and ran the project on an HTC M8 phone.
 Here is a demo showing the app and the timers functionality
-![Unity Valves demo on Android]("Valves Unity Demo.gif")
+![]("Valves-Unity-Demo.gif")
