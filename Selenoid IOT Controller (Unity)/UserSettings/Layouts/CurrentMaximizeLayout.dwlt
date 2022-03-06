@@ -84,10 +84,10 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -225,24 +225,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 499}
-      m_SelectedIDs: 1c5d0000b65a00002e5f00007e5f00005e5f00003c5d00009e570000865f00007c5e0000c4580000
-      m_LastClickedID: 22724
-      m_ExpandedIDs: 9ce4ffff68eeffff6cf7ffff38fbffffbc5700006a58000080580000a0580000aa580000dc580000f85800000a5900002c5900003e59000086590000785a0000865a0000ae5a0000ca5a0000ce5a0000e85a00003a5b0000425b0000a05b0000fa5b00001e5c0000e65c0000ee5c0000f85c00004c5d0000e05d0000165e0000665e0000725e0000ac5e0000d25e0000fa5e0000365f00004e5f000034600000fa600000046100000e61000018610000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 70060000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Keyboard
-        m_OriginalName: Keyboard
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 23242
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -505,9 +505,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.0085001, y: 8.28, z: -6.027}
+    m_Target: {x: -0.6992216, y: 10.2111, z: 0.16194111}
     speed: 2
-    m_Value: {x: -1.0085001, y: 8.28, z: -6.027}
+    m_Value: {x: -0.6992216, y: 10.2111, z: 0.16194111}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -556,11 +556,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.024268871, y: 0.71658987, z: -0.024944656, w: 0.6966651}
     speed: 2
-    m_Value: {x: 0.024268212, y: 0.7165704, z: -0.024943978, w: 0.69664615}
+    m_Value: {x: 0.024268871, y: 0.71658987, z: -0.024944657, w: 0.69666517}
   m_Size:
-    m_Target: 4.745264
+    m_Target: 8.36249
     speed: 2
-    m_Value: 4.745264
+    m_Value: 8.756534
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -654,22 +654,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: K:\Unity Projects\Hardware Project\Codes\Unity Project\hardware
+  m_LastProjectPath: K:\Unity Projects\Hardware Project\Codes\IOT-Solenoid-Valve-Controller\Selenoid
+    IOT Controller (Unity)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 66}
-    m_SelectedIDs: ae500100
-    m_LastClickedID: 86190
-    m_ExpandedIDs: 00000000266500004865000000ca9a3bffffff7f
+    m_SelectedIDs: 50650000
+    m_LastClickedID: 25936
+    m_ExpandedIDs: 000000004265000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -697,7 +698,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000266500004865000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000042650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -722,9 +723,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 1c5d0000b65a00002e5f00007e5f00005e5f00003c5d00009e570000865f00007c5e0000c4580000
-    m_LastClickedInstanceID: 23836
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 70060000
+    m_LastClickedInstanceID: 1648
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000066620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -801,8 +802,8 @@ MonoBehaviour:
     y: 0
     width: 450
     height: 930
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
