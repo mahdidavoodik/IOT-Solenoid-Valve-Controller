@@ -2,7 +2,7 @@
 An Arduino code with a mobile app interface for controlling two Solenoid valves made in Unity Game engine.
 In our setup we ran the Arduino code on Arduino UNO Rev3 with a Wi-Fi esp8266 module for TCP/IP connection, breadbord, two Relays, and two Selenoid valves.
 
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=n0BPYhyw158)](https://www.youtube.com/watch?v=n0BPYhyw158 "Everything Is AWESOME")
+[![IOT Solenoid Valve Controller Demo](https://yt-embed.herokuapp.com/embed?v=n0BPYhyw158)](https://www.youtube.com/watch?v=n0BPYhyw158 "IOT Solenoid Valve Controller Demo")
 ## Arduino Code
 We used an Arduino UNO Rev3 and connected the two pin number 12 and 13 to the two relays controlling the electrical flow going to the Selenoid valves. Pins number 2 & 3 are connected to the Wi-Fi esp8266 module for recieving and sending data repectively.
 
